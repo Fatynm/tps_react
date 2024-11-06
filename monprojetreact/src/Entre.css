@@ -1,0 +1,24 @@
+Entre.css
+
+.menu-container {
+    display:inline;
+    justify-content: space-around;
+    background-color: #4eaadf;
+    padding: 10px;
+  }
+  
+  .menu-container button {
+    background-color: transparent;
+    font-weight: 100;
+    font-size:medium;
+    border: none;
+    color: rgb(214, 152, 152);
+    cursor: pointer;
+  }
+  
+  .menu-container button:hover {
+    text-decoration: underline;
+    color: rgb(57, 138, 35);
+
+  }
+  

@@ -1,0 +1,18 @@
+/* TaskList1.css */
+
+.task-list {
+    list-style: none;
+    padding: 5px;
+  }
+  
+  .task-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0px;
+  }
+
+  
+  .task-item span {
+    text-decoration: none;
+  }
+  
